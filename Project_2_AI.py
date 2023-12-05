@@ -1,8 +1,3 @@
-#
-# Project 2 - Intro to AI
-#
-# Benjamin Malaga - bdm104@scarletmail.rutgers.edu
-#
 
 import random
 from collections import deque
